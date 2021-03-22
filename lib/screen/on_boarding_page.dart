@@ -104,5 +104,3 @@ class OnBoardingPageState extends State<OnBoardingPage> {
         duration: Duration(milliseconds: 900), curve: Curves.ease);
   }
 }
-
-
